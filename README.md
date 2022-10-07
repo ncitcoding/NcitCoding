@@ -1,6 +1,6 @@
 ![cecep](https://user-images.githubusercontent.com/110522755/194439890-450757ba-0ecf-4598-a045-a721b4b44daa.gif)
 ![cecep](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 ![cecep](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![cecep](https://img.shields.io/twitter/url?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe6%2FPertamina_Logo.svg%2F800px-Pertamina_Logo.svg.png)
+![cecep](https://img.shields.io/badge/Takur-MC-red)
 ![cecep](https://aleen42.github.io/badges/src/land_rover.svg)
 ![cecep](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white)
