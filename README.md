@@ -6,5 +6,5 @@
 ![cecep](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white)
 ![resz](https://user-images.githubusercontent.com/110522755/194441623-e2432de6-22ab-4073-b002-3ce7c91368b8.png)
 ![petro](https://user-images.githubusercontent.com/110522755/194441748-59d38368-799c-40bb-8a53-01dd5f94a660.png)
-![sheeel](https://user-images.githubusercontent.com/110522755/194442000-0443dba8-48dc-4840-92c6-75ce0346d095.png)
+![50](https://user-images.githubusercontent.com/110522755/194442109-f3b60ae9-367b-4bbf-a8cd-2a3cf060e697.png)
 ![mobil 100](https://user-images.githubusercontent.com/110522755/194442017-d274e058-5582-431e-987b-c3afb92bec43.png)
