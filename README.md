@@ -5,6 +5,6 @@
 ![cecep](https://aleen42.github.io/badges/src/land_rover.svg)
 ![cecep](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white)
 ![resz](https://user-images.githubusercontent.com/110522755/194441623-e2432de6-22ab-4073-b002-3ce7c91368b8.png)
-![petro](https://user-images.githubusercontent.com/110522755/194441748-59d38368-799c-40bb-8a53-01dd5f94a660.png)
+![50p](https://user-images.githubusercontent.com/110522755/194442186-122e105d-e5f4-4dfc-a1a9-55bf2d5cb3e4.png)
 ![50](https://user-images.githubusercontent.com/110522755/194442109-f3b60ae9-367b-4bbf-a8cd-2a3cf060e697.png)
 ![mobil 100](https://user-images.githubusercontent.com/110522755/194442017-d274e058-5582-431e-987b-c3afb92bec43.png)
