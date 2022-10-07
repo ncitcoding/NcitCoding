@@ -4,3 +4,4 @@
 ![cecep](https://img.shields.io/badge/Takur-MC-red)
 ![cecep](https://aleen42.github.io/badges/src/land_rover.svg)
 ![cecep](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white)
+![resz](https://user-images.githubusercontent.com/110522755/194441623-e2432de6-22ab-4073-b002-3ce7c91368b8.png)
